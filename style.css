@@ -1,0 +1,22 @@
+.lista {
+  background-color: blue;
+  width: 300px;
+}
+
+#artigo {
+  background-color: blueviolet;
+  font-family: 'D050000L', 'arial';
+}
+
+h1 {
+  background-color: rgb(152, 194, 85);
+}
+
+a {
+  text-decoration: none;
+  text-transform: none;
+}
+
+body {
+  background-color: rgb(253, 251, 251); 
+}
