@@ -1,21 +1,44 @@
 body {
-  background-color: rgb(253, 251, 251); 
+  background-color: rgb(165, 149, 167);
+
+  
 }
+
+#cabecalho {
+  top: 0;
+}
+
 .lista {
-  background-color: rgb(201, 201, 235);
   width: 300px;
+  font-weight: bold;
+  line-height: 15px;
+  font-style: italic;
+  }
+
+#tamanho {
+  height: 600px;
 }
 
 #artigo {
-  background-color: rgb(216, 207, 224);
   font-family: 'D050000L', 'arial';
 }
 
 h1 {
-  background-color: rgb(196, 207, 178);
+  font-family:'Courier New', Courier, monospace;
+  text-align: center;
+  text-decoration: underline;
+}
+
+h2 {
+  text-align: center;
 }
 
 a {
   text-decoration: none;
   text-transform: none;
 }
+
+#minha_foto {
+  height: 200px;
+}
+
